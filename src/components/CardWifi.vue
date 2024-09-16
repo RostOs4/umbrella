@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import { defineComponent } from 'vue';
+import { defineComponent } from '.vue';
 import ButtonDelete from "./ButtonDelete.vue";
 export default defineComponent({
   name: "CardWifi",
