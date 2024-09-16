@@ -1,6 +1,4 @@
-alert("Начал работу")
 import { createApp } from '.vue'
-alert("Второй")
 import App from './App.vue'
 
 // Vuetify
